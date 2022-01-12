@@ -1,4 +1,4 @@
-package sample;
+//Converts Svg files to a simpler format, for easier reading in Main. Supports only basic svg files (from calligrapher.io)
 import java.io.*;
 import javax.xml.parsers.SAXParser;
 public class Svg {
